@@ -1,0 +1,14 @@
+%% Additional files
+Library files: zernike.zip, fixPSlinestyle.m, xticklabel_rotate.m were 
+obtained from http://www.mathworks.com/matlabcentral and are subject to 
+the terms and conditions of the BSD 2-Clause license located at
+http://opensource.org/licenses/bsd-license.php. The respective authors 
+copyrights on their original software. 
+
+Links:
+zernike polynomials
+    http://www.mathworks.com/matlabcentral/fileexchange/7687-zernike-polynomials
+fixPSlinstyle 
+    http://www.mathworks.com/matlabcentral/fileexchange/17928-fixpslinestyle
+xticklabel_rotate: 
+    http://www.mathworks.com/matlabcentral/fileexchange/3486-xticklabelrotate
