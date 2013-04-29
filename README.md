@@ -22,6 +22,10 @@ Installation
 Matlab search path and make the help files searchable.
 
  
+Data files
+-----------
 
+The original nSTAT package included over 500 MB of example data files. If you'd like
+to access those files, please follow the link above.
 
 
